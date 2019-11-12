@@ -39,7 +39,7 @@
   - [你不知道的 JavaScript （下卷）](https://book.douban.com/subject/27620408/)
 - `Book`   [JavaScript 设计模式与开发实践](https://book.douban.com/subject/26382780/) *
 - `Book`   [Effective JavaScript](https://book.douban.com/subject/25786138/) 
-- `Book`   [JavaScript 高级程序设计（3rd Edition）](https://book.douban.com/subject/10546125/)
+- `Book`   [Professional JavaScript for Web Developers, 4th Edition](https://book.douban.com/subject/27589744/) ~
 - `CodewithMosh`   [JavaScript Basics for Beginners](https://codewithmosh.com/p/javascript-basics-for-beginners) *
 - `CodewithMosh`   [Object-oriented Programming in JavaScript](https://codewithmosh.com/p/object-oriented-programming-in-javascript) *
 
