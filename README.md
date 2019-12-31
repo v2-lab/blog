@@ -86,6 +86,7 @@
 - `Book`   [Node.js 实战（2nd Edition）](https://book.douban.com/subject/30288107/)
 - `Document`   [Koa](https://koa.bootcss.com)
 - `CodewithMosh`   [The Complete Node.js Course](https://codewithmosh.com/p/the-complete-node-js-course) ~
+- `Nest` [Nest 官方文档 - Spring 的 JS 版](https://docs.nestjs.cn/)
 
 
 
